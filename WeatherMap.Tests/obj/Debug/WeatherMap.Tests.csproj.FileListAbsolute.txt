@@ -1,0 +1,14 @@
+C:\Users\talk\Desktop\C.Sharp-WeatherAPP\WeatherMap.Tests\bin\Debug\WeatherMap.Tests.dll
+C:\Users\talk\Desktop\C.Sharp-WeatherAPP\WeatherMap.Tests\bin\Debug\WeatherMap.Tests.pdb
+C:\Users\talk\Desktop\C.Sharp-WeatherAPP\WeatherMap.Tests\bin\Debug\WeatherApp.exe
+C:\Users\talk\Desktop\C.Sharp-WeatherAPP\WeatherMap.Tests\bin\Debug\WeatherApp.pdb
+C:\Users\talk\Desktop\C.Sharp-WeatherAPP\WeatherMap.Tests\obj\Debug\WeatherMap.Tests.csprojResolveAssemblyReference.cache
+C:\Users\talk\Desktop\C.Sharp-WeatherAPP\WeatherMap.Tests\obj\Debug\WeatherMap.Tests.dll
+C:\Users\talk\Desktop\C.Sharp-WeatherAPP\WeatherMap.Tests\obj\Debug\WeatherMap.Tests.pdb
+C:\Users\shomi_l\Desktop\WeatherAPP-472136a4937def6fb1be2ed69d7da64aadf1f75c\WeatherMap.Tests\bin\Debug\WeatherMap.Tests.dll
+C:\Users\shomi_l\Desktop\WeatherAPP-472136a4937def6fb1be2ed69d7da64aadf1f75c\WeatherMap.Tests\bin\Debug\WeatherMap.Tests.pdb
+C:\Users\shomi_l\Desktop\WeatherAPP-472136a4937def6fb1be2ed69d7da64aadf1f75c\WeatherMap.Tests\bin\Debug\WeatherApp.exe
+C:\Users\shomi_l\Desktop\WeatherAPP-472136a4937def6fb1be2ed69d7da64aadf1f75c\WeatherMap.Tests\bin\Debug\WeatherApp.pdb
+C:\Users\shomi_l\Desktop\WeatherAPP-472136a4937def6fb1be2ed69d7da64aadf1f75c\WeatherMap.Tests\obj\Debug\WeatherMap.Tests.csprojResolveAssemblyReference.cache
+C:\Users\shomi_l\Desktop\WeatherAPP-472136a4937def6fb1be2ed69d7da64aadf1f75c\WeatherMap.Tests\obj\Debug\WeatherMap.Tests.dll
+C:\Users\shomi_l\Desktop\WeatherAPP-472136a4937def6fb1be2ed69d7da64aadf1f75c\WeatherMap.Tests\obj\Debug\WeatherMap.Tests.pdb
