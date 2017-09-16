@@ -1,8 +1,10 @@
 ﻿using System;
 
-namespace WeatherApp{
+namespace WeatherApp
+{
 
-    public class Location{
+    public class Location
+    {
         private String city;
         private String country;
         private String sunrise;
@@ -16,14 +18,17 @@ namespace WeatherApp{
         private String temperatureMax;
         private String pressure;
         private String windDeg;
+        private String windDesc;
         private String windDir;
         private String visibility;
 
-        public Location(String location){
+        public Location(String location)
+        {
             city = location;
         }
 
-        public String City{
+        public String City
+        {
             get { return city; }
             set { city = value; }
         }
@@ -62,37 +67,50 @@ namespace WeatherApp{
             get { return temperatureMax; }
             set { temperatureMax = value; }
         }
-        public String Sunrise{
+        public String Sunrise
+        {
             get { return sunrise; }
             set { sunrise = value; }
         }
-        
-        public String Sunset{
+
+        public String Sunset
+        {
             get { return sunset; }
             set { sunset = value; }
         }
-      
-        public String Cloud{
+
+        public String Cloud
+        {
             get { return cloud; }
             set { cloud = value; }
         }
-    
-        public String Wind{
+
+        public String Wind
+        {
             get { return wind; }
             set { wind = value; }
         }
-        
-        public String Temperature{
+
+        public String WindDesc
+        {
+            get { return windDesc; }
+            set { windDesc = value; }
+        }
+
+        public String Temperature
+        {
             get { return temperature; }
             set { temperature = value; }
         }
 
-        public String Humidity{
+        public String Humidity
+        {
             get { return humidity; }
             set { humidity = value; }
         }
-        
-        public String Lastupdate{
+
+        public String Lastupdate
+        {
             get { return lastupdate; }
             set { lastupdate = value; }
         }

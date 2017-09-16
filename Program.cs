@@ -10,7 +10,7 @@ namespace WeatherApp
             try
             {
                 IWeatherDataService service = WeatherDataServiceFactory.getWeatherDataService(WeatherDataServiceFactory.OPEN_WEATHER_MAP);
-                WeatherData weatherData = service.getWeatherData(new Location("tel aviv"));
+                WeatherData weatherData = service.getWeatherData(new Location("London"));
                 AnonymousPrint HowAmI = delegate (ref IWeatherDataService service1)
                 {
                     Console.WriteLine("base object type of - " + service1.ToString());

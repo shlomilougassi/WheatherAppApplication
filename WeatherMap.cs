@@ -34,7 +34,7 @@ namespace WeatherApp
                 WebClient client = new WebClient();
                 String xml = client.DownloadString(URLStringXML + wd.Location.City + RestOfURL);
                 XDocument xmlDoc = XDocument.Parse(xml);
-              //Console.WriteLine(xmlDoc);
+                //Console.WriteLine(xmlDoc);
                 wd.Location.City = xmlDoc.Descendants("city").Attributes("name").First().Value;
                 wd.Location.Wind = xmlDoc.Descendants("speed").Attributes("value").First().Value;
                 wd.Location.Lastupdate = xmlDoc.Descendants("lastupdate").Attributes("value").First().Value;
@@ -46,6 +46,7 @@ namespace WeatherApp
                 wd.Location.Sunrise = xmlDoc.Descendants("sun").Attributes("rise").First().Value;
                 wd.Location.Sunset = xmlDoc.Descendants("sun").Attributes("set").First().Value;
                 wd.Location.WindDir = xmlDoc.Descendants("direction").Attributes("value").First().Value;
+                wd.Location.WindDesc = xmlDoc.Descendants("speed").Attributes("name").First().Value;
                 wd.Location.WindDeg = xmlDoc.Descendants("direction").Attributes("name").First().Value;
                 wd.Location.Visibility = xmlDoc.Descendants("visibility").Attributes("value").First().Value;
                 wd.Location.Cloud = xmlDoc.Descendants("clouds").Attributes("name").First().Value;

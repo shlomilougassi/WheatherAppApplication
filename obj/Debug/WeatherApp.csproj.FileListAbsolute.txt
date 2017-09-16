@@ -39,3 +39,7 @@ C:\Users\shomi_l\Desktop\WeatherAPP-472136a4937def6fb1be2ed69d7da64aadf1f75c\obj
 C:\Users\shomi_l\Desktop\WheatherAppApplication\bin\Debug\WeatherApp.exe.config
 C:\Users\shomi_l\Desktop\WheatherAppApplication\obj\Debug\WeatherApp.exe
 C:\Users\shomi_l\Desktop\WheatherAppApplication\obj\Debug\WeatherApp.pdb
+C:\Users\shomi_l\Desktop\WheatherAppApplication\bin\Debug\WeatherApp.exe
+C:\Users\shomi_l\Desktop\WheatherAppApplication\bin\Debug\WeatherApp.pdb
+C:\Users\shomi_l\Desktop\WheatherAppApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shomi_l\Desktop\WheatherAppApplication\obj\Debug\WeatherApp.csprojResolveAssemblyReference.cache

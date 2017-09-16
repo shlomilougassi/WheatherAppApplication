@@ -25,19 +25,19 @@ namespace WeatherApp
                 Console.Write("*");
             }
             Console.WriteLine(
-               "\nThe Weather of " + Location.Country +", "+ location.City + " is:\n" +
+               "\nThe Weather of " + Location.Country + ", " + location.City + " is:\n" +
                "Tempature is  : " + Location.Temperature + " Kalvin\n" +
                "Tempature is  : " + TemperatureCelsius + " Celsius\n" +
                "Max Tempature is  : " + TemperatureCelsiusMax + " Celsius\n" +
                "Min Tempature is  : " + TemperatureCelsiusMin + " Celsius\n" +
-               "Sunrise is : " + Location.Sunrise + "\n" +
-               "Sunset is : " + Location.Sunset + "\n" +
+               "Sunrise is : " + Location.Sunrise + " UTC\n" +
+               "Sunset is : " + Location.Sunset + " UTC\n" +
                "Clouds status is : " + Location.Cloud + "\n" +
-               "Wind Speed is : " + Location.Wind + ", wind's speed is:"+ Location.WindDir+ ", and the wind's deg. is :"+ Location.WindDeg+ "\n" +
+               "Wind Speed is : " + Location.Wind + " MPS, feels " + Location.WindDesc + ", wind's deg. is: " + Location.WindDir + ", and wind's dierction is :" + Location.WindDeg + "\n" +
                "Humidity is : " + Location.Humidity + "%\n" +
-               "Pressure is : " + Location.Pressure + "%\n" +
-               "Visibility  status : " + Location.Visibility + "%\n" +
-               "Last Update : " + Location.Lastupdate + "\n"
+               "Pressure is : " + Location.Pressure + " hpa\n" +
+               "Visibility  status : " + Location.Visibility + " Metter\n" +
+               "Last Update : " + Location.Lastupdate + " UTC\n"
                );
         }
     }

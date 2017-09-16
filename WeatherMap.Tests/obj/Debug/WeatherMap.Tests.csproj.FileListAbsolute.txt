@@ -12,3 +12,10 @@ C:\Users\shomi_l\Desktop\WeatherAPP-472136a4937def6fb1be2ed69d7da64aadf1f75c\Wea
 C:\Users\shomi_l\Desktop\WeatherAPP-472136a4937def6fb1be2ed69d7da64aadf1f75c\WeatherMap.Tests\obj\Debug\WeatherMap.Tests.csprojResolveAssemblyReference.cache
 C:\Users\shomi_l\Desktop\WeatherAPP-472136a4937def6fb1be2ed69d7da64aadf1f75c\WeatherMap.Tests\obj\Debug\WeatherMap.Tests.dll
 C:\Users\shomi_l\Desktop\WeatherAPP-472136a4937def6fb1be2ed69d7da64aadf1f75c\WeatherMap.Tests\obj\Debug\WeatherMap.Tests.pdb
+C:\Users\shomi_l\Desktop\WheatherAppApplication\WeatherMap.Tests\bin\Debug\WeatherMap.Tests.dll
+C:\Users\shomi_l\Desktop\WheatherAppApplication\WeatherMap.Tests\bin\Debug\WeatherMap.Tests.pdb
+C:\Users\shomi_l\Desktop\WheatherAppApplication\WeatherMap.Tests\bin\Debug\WeatherApp.exe
+C:\Users\shomi_l\Desktop\WheatherAppApplication\WeatherMap.Tests\bin\Debug\WeatherApp.pdb
+C:\Users\shomi_l\Desktop\WheatherAppApplication\WeatherMap.Tests\obj\Debug\WeatherMap.Tests.csprojResolveAssemblyReference.cache
+C:\Users\shomi_l\Desktop\WheatherAppApplication\WeatherMap.Tests\obj\Debug\WeatherMap.Tests.dll
+C:\Users\shomi_l\Desktop\WheatherAppApplication\WeatherMap.Tests\obj\Debug\WeatherMap.Tests.pdb
